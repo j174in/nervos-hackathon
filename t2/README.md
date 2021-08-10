@@ -1,4 +1,4 @@
-# Task 1
+# Task 2
 
 ## 1. A screenshot of the console output immediately after you have successfully deployed a smart contract.
 
