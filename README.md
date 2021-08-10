@@ -1,3 +1,3 @@
 # nervos-hackathon
 
-This repository is indeded for nervos hackathon submission.
+This repository is intended for nervos hackathon submission.
